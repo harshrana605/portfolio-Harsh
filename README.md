@@ -2,14 +2,10 @@
 
 A hyper-modern, cinematic developer portfolio built with Next.js 15, TypeScript, Three.js, GSAP, and Framer Motion.
 
-## 🚀 Quick Start
 
-```bash
-npm install
-npm run dev
-```
 
-Open [http://localhost:3000](http://localhost:3000)
+Live Website:
+https://portfolio-harsh-ashy.vercel.app/
 
 ## ✨ Features
 
