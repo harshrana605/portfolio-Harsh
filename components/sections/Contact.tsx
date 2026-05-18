@@ -23,7 +23,7 @@ export default function Contact() {
   const contacts = [
     { icon: Mail, label: "Email", value: "harsh@gmail.com", href: "mailto:harsh.rana.605@gmail.com", color: "#b44fff" },
     { icon: Github, label: "GitHub", value: "github.com", href: "https://github.com/harshrana605", color: "#00c3ff" },
-    { icon: Linkedin, label: "LinkedIn", value: "linkedin.com/in/harsh-rana", href: "https://linkedin.com/in/harsh-rana", color: "#00fff5" },
+    { icon: Linkedin, label: "LinkedIn", value: "linkedin.com/in/harsh-rana", href: "https://www.linkedin.com/in/harsh-rana-87636b2b5/", color: "#00fff5" },
   ];
 
   return (
